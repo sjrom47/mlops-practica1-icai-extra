@@ -1,0 +1,5 @@
+outs:
+- md5: 28209eda62fecd6e6a2d98b1501bb15f
+  size: 4170669
+  hash: md5
+  path: pneumoniamnist.npz
